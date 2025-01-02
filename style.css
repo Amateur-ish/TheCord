@@ -34,7 +34,7 @@ a:hover {
 }
 .mafuyu-image {
     position: fixed;
-    background-image: url("/Images/The__Good__Me_T.png");
+    background-image: url("Images/The__Good__Me_T.png");
     background-position:30% 20%;
     background-repeat: no-repeat;
     opacity: 0.4;
